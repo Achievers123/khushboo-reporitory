@@ -1,31 +1,19 @@
-# Registration Form Project
+# Registration Form
 
-This repository contains a **Registration Form** created using **HTML and CSS**.
+This is a simple Registration Form made using HTML and CSS.
 
-It demonstrates form layout, input validation basics (if any), and styling using modern CSS.
+## About Project
+This project contains a basic registration form design.
+It is created for practice and learning purpose.
 
----
+## Technologies Used
+- HTML
+- CSS
 
-## 🔧 Features
+## How to Use
+1. Open the project folder
+2. Open `index.html` in any web browser
+3. Fill the registration form
 
-✔ User-friendly registration form  
-✔ Styled with CSS for visual appeal  
-✔ Includes form fields such as:
-- Full Name
-- Email Address
-- Password
-- Gender
-- Date of Birth  
-✔ Responsive layout (if applicable)
-
----
-
-## 🛠 Technologies Used
-
-- **HTML5**
-- **CSS3**
-
----
-
-## 📁 Project Structure
-
+## Author
+Khushboo
